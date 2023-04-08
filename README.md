@@ -6,7 +6,7 @@
 需要注意的是，该文件应该放在同一个子文件夹下
 
 该项目需要安装的库：
-numpy
-matplotlib
-sklearn
+numpy,
+matplotlib,
+sklearn,
 pandas
